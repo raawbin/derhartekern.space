@@ -1,6 +1,21 @@
+title: derhartekern.space
+author:
+  name: rawbin
+  email: rawbin@derhartekern.space
+
 theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+
 minima:
   skin: dark
+
+social_links:
+ - { platform: matrix,          user_url: "https://matrix.to/#/@rawbin:matrixblauste.in" }
+
 header_pages:
   - links.md
   - services.md
