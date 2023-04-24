@@ -1,6 +1,5 @@
 title: derhartekern.space
 
-
 theme: minima
 
 plugins:
@@ -17,3 +16,5 @@ social_links:
 header_pages:
   - links.md
   - services.md
+
+show_excerpts: true
