@@ -6,12 +6,8 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-
 minima:
   skin: dark
-
-social_links:
- - { platform: matrix,          user_url: "https://matrix.to/#/@rawbin:matrixblauste.in" }
 
 header_pages:
   - links.md

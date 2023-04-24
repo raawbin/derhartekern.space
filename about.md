@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-https://matrix.to/#/@rawbin:matrixblauste.in
+[Get in contact through Matrix](https://matrix.to/#/@rawbin:matrixblauste.in)
