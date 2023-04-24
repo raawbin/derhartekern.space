@@ -14,3 +14,5 @@ header_pages:
   - services.md
 
 show_excerpts: true
+
+timezone: Europe/Berlin
