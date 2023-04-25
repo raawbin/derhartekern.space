@@ -1,6 +1,6 @@
 ---
-layout: page
-tile: default
+layout: default
+tile: links
 permalink: /links/
 ---
 here would be links
