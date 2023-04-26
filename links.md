@@ -3,7 +3,7 @@ layout: default
 tile: links
 permalink: /links/
 ---
-# Links to useful and less useful Stuff
+## Links to useful and less useful Stuff
 
 [Troubleshoot and make a sad server happy!](https://sadservers.com/)
 
