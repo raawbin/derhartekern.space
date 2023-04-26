@@ -15,7 +15,7 @@ Document Management System [Paperless-ngx](https://paperless.derhartekern.spae)
 
 [Grocy](https://grocy.derhartekern.space) - ERP beyond your fridge  
 
-~~Music Streaming [Navidrome](https://music.derhartekern.space)~~  
+(Down)~~Music Streaming [Navidrome](https://music.derhartekern.space)~~  
 
 Docker n’ Stuff [portainer](https://portainer.derhartekern.space)  
 
