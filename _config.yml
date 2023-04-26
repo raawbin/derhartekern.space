@@ -7,9 +7,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-remote-theme
 
-minima:
-  skin: dark
-
 header_pages:
   - links.md
   - services.md
