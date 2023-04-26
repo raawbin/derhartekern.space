@@ -1,7 +1,7 @@
 ---
 layout: default
 tile: services
-permalink: /service/
+permalink: /services/
 ---
 # Services available on derhartekern.space
 
