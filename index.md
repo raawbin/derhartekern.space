@@ -27,3 +27,7 @@ Name: Der Harte Kern\
 IP: derhartekern.space\
 [Mod Download](https://drive.proton.me/urls/R3EZBN9RRW#xlFYeIiQ2B5x)\
 einfügen in *SteamLibrary\steamapps\common\7 Days To Die\Mods*
+\
+\
+[Linkcollection](https://derhartekern.space/links)
+[Services](https://derhartekern.space/services)
