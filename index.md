@@ -29,5 +29,6 @@ IP: derhartekern.space\
 einfügen in *SteamLibrary\steamapps\common\7 Days To Die\Mods*
 \
 \
-[Linkcollection](https://derhartekern.space/links)
+[Linkcollection](https://derhartekern.space/links)\
+\
 [Services](https://derhartekern.space/services)
