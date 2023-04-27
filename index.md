@@ -1,8 +1,6 @@
 ---
 layout: default
 ---
-> Stegi kauf dir endlich Elden Ring
-
 **TS3 Server**  
 derhartekern.space:9987
 
