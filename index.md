@@ -13,7 +13,7 @@ derhartekern.space:2302\
 PW: stegi
 
 **Factorio Server**\
-derhartekern.space:34197
+derhartekern.space:34197  
 
 ~~Valheim Server~~\
 Name: Der Harte Kern\
@@ -27,6 +27,6 @@ IP: derhartekern.space\
 einfügen in *SteamLibrary\steamapps\common\7 Days To Die\Mods*
 \
 \
-[Linkcollection](https://derhartekern.space/links)\
+[Link collection](https://derhartekern.space/links)\
 \
 [Services](https://derhartekern.space/services)
