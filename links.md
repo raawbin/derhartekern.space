@@ -51,3 +51,5 @@ permalink: /links/
 [Dreckstool](https://www.dreckstool.de/)
 
 [So you’ve installed fzf. Now what?](https://andrew-quinn.me/fzf/)
+
+[Remove Image Backgrounds](https://pixian.ai/)
