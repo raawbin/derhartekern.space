@@ -13,7 +13,8 @@ derhartekern.space:2302\
 PW: stegi
 
 **Factorio Server**\
-derhartekern.space:34197  
+derhartekern.space\
+PW: stegi
 
 ~~Valheim Server~~\
 Name: Der Harte Kern\
