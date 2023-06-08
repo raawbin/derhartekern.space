@@ -9,7 +9,7 @@ The open-source, self-hostable to-do app [Vikunja](https://vikunja.derhartekern.
 
 [Bitwarden](https://bitwarden.derhartekern.space) Password Manager  
 
-Document Management System [Paperless-ngx](https://paperless.derhartekern.spae)  
+Document Management System [Paperless-ngx](https://paperless.derhartekern.space)  
 
 [The good ol Nextcloud](https://nextcloud.derhartekern.space)  
 
