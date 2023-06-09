@@ -17,6 +17,10 @@ Name: Der Harte Kern\
 PW: stegi\
 derhartekern.space:2456
 
+**Minecraft Server**\
+dynamic.derhartekern.space\
+Whitelist on
+
 \
 [Link collection](https://derhartekern.space/links)\
 \
