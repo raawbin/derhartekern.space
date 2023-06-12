@@ -19,8 +19,8 @@ derhartekern.space:2456
 
 **Minecraft Server**\
 dynamic.derhartekern.space\
-[Fabric Mods](https://nextcloud.derhartekern.space/s/t8etRSXAS8NzefL)
-[Fabric Loader](https://fabricmc.net/use/installer/)
+[Fabric Mods](https://nextcloud.derhartekern.space/s/t8etRSXAS8NzefL)\
+[Fabric Loader](https://fabricmc.net/use/installer/)\
 Whitelist on
 
 \
