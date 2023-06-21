@@ -27,3 +27,5 @@ Whitelist on
 [Link collection](https://derhartekern.space/links)\
 \
 [Services](https://derhartekern.space/services)
+
+[Data Security](https://derhartekern.space/data)
