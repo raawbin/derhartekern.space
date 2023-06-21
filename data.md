@@ -4,4 +4,5 @@ tile: data
 permalink: /data/
 ---
 
-![[NP_infografik_databroker_02_005-1536x864]]
+
+![Inforgrafik Databroker](NP_infografik_databroker_02_005-1536x864.jpg)
