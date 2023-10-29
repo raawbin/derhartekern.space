@@ -30,4 +30,4 @@ Whitelist on
 
 [Data Security](https://derhartekern.space/data)
 
-[Feuerwehr - Grundausbildung mit integriertem Sprechfunk- Lehrgang](https://derhartekern.space/tm1)
+[Feuerwehr - Atemschutzlehrgang](https://derhartekern.space/tm1)
