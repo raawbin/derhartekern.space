@@ -22,3 +22,5 @@ Docker n’ Stuff [portainer](https://portainer.derhartekern.space)
 Monitoring [uptime-kuma](https://kuma.derhartekern.space)
 
 [Gitea](https://git.derhartekern.space/): Git with a cup of tea
+
+[Apache Guacamole](https://rdp.derhartekern.space/): Open-source remote desktop gateway
