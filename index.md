@@ -29,5 +29,3 @@ Whitelist on
 [Services](https://derhartekern.space/services)
 
 [Data Security](https://derhartekern.space/data)
-
-[Feuerwehr - Atemschutzlehrgang](https://derhartekern.space/tm1)
