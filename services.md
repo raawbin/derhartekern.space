@@ -13,7 +13,7 @@ Document Management System [Paperless-ngx](https://paperless.derhartekern.space)
 
 [The good ol Nextcloud](https://nextcloud.derhartekern.space)  
 
-[Grocy](https://grocy.derhartekern.space) - ERP beyond your fridge  
+[KitchenOwl](https://owl.derhartekern.space) - The last grocery app you'll ever need!
 
 (Down)~~Music Streaming [Navidrome](https://music.derhartekern.space)~~  
 
