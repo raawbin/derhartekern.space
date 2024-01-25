@@ -17,7 +17,7 @@ permalink: /links/
 
 [csszengarden](http://www.csszengarden.com/)
 
-[speedtest-cli](https://binarynature.blogspot.com/2013/03/measure-internet-connection-speed-from-linux-command-line.html)
+[speedtest-cli](https://github.com/sivel/speedtest-cli)
 
 [opensourcealternatives](https://www.opensourcealternative.to/)
 
