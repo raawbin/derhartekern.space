@@ -5,6 +5,8 @@ permalink: /links/
 ---
 ## Links to useful and less useful Stuff
 
+[Sven Guckes](https://guckes.net/)
+
 [Spicetify](https://spicetify.app/)
 
 [Troubleshoot and make a sad server happy!](https://sadservers.com/)
